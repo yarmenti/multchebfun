@@ -1,6 +1,7 @@
 # multchebfun- Python Chebyshev multi-dimensional functions
 
 This module allows to make an interpolated version of any multidimensional python function.
+Here is an example on how to use it:
 
 ```python
 import multchebfun
